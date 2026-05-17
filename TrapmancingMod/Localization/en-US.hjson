@@ -1,0 +1,21 @@
+Mods: {
+	TrapmancingMod: {
+		Items: {
+			TrapItem: {
+				DisplayName: Trap Socket
+				Tooltip:
+					'''
+					Right-click to insert a weapon or spell
+					Wire to fire its projectile
+					Hammer to rotate direction
+					Owner: whoever placed the trap (no friendly fire)
+					'''
+			}
+		}
+		Tiles: {
+			TrapTile: {
+				MapEntry: Trap Socket
+			}
+		}
+	}
+}

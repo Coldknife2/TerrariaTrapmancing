@@ -1,0 +1,8 @@
+author = TrapmancingMod
+displayName = Trapmancing
+homepage =
+hideCode = false
+hideResources = false
+includeSource = true
+buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*
+version = 0.1.0
